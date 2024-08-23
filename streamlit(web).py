@@ -4,7 +4,7 @@ import pandas as pd
 
 # Connect to MySQL database
 def get_connection():
-    return pymysql.connect(host='localhost', user='root', passwd='Qdpfp7xsm2@', database='bus_data')
+    return pymysql.connect(host='localhost', user='root', passwd='abc@', database='bus_data')
 
 # Function to fetch route names starting with a specific letter, arranged alphabetically
 def fetch_route_names(connection, starting_letter):
