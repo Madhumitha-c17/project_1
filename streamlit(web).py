@@ -26,7 +26,7 @@ def filter_data(df, selected_ratings, selected_bus_types):
 
 # Main Streamlit app
 def main():
-    st.header('Easy and Secure Online Bus Tickets Booking')
+    st.header(':rainbow[RED BUS OLINE BOOKING APP]')
 
     connection = get_connection()
 
