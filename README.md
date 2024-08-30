@@ -22,4 +22,6 @@ This project involves web scraping bus route data from the RedBus website using 
 - A virtual environment (recommended)
 - MySQL Server
 - Required Python packages (`Selenium`, `Streamlit`, `pymysql`)
-- 
+
+##Streamlit Web app
+![image](https://github.com/user-attachments/assets/d73f788f-f11d-48ef-82ce-337cba0df041)
